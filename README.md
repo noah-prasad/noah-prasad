@@ -1,5 +1,11 @@
-### Hi there 👋
+# Noah Prasad
+### Student at the University of Iowa
+### Tippie College of Business
+Pronouns: he/him/his
 
+[LinkedIn](https://www.linkedin.com/in/noah-prasad-7a62b321a/)
+
+<!--
 <!--
 **noah-prasad/noah-prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
